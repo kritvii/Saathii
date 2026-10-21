@@ -216,4 +216,4 @@ This project is a starter and keeps the JWT in `localStorage`. Before using it i
 
 ## Author
 
-Built by [@kritvii](https://github.com/kritvii).
+Built by [@kritvii](https://github.com/kritvii) &[@ArnavSamant](https://github.com/ArnavSamant)
